@@ -9,8 +9,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         paddingVertical: 25,
         backgroundColor: 'pink',
-        borderBottomLeftRadius: 30,
-        borderBottomRightRadius: 30,
     },
     button: {
         padding: 10,

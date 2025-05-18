@@ -1,5 +1,5 @@
 import { View, ScrollView, Text } from "react-native";
-import styles from "./style";
+import styles from "../ListBreakfast/style";
 
 export default function ListLunch() {
     return (

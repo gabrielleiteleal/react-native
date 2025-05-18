@@ -8,9 +8,9 @@ const styles = StyleSheet.create({
     },
     containerList: {
         width: '100%',
-        height: '150',
+        height: '130',
         backgroundColor: 'orange',
-        marginVertical: 8,
+        marginVertical: 6,
         justifyContent: 'center',
         alignItems: 'center',
     }

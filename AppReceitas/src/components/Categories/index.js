@@ -1,4 +1,4 @@
-import { View, Text, Button, TouchableOpacity } from "react-native";
+import { View, Text, TouchableOpacity } from "react-native";
 import styles from "./style";
 import { useNavigation } from "@react-navigation/native";
 
@@ -8,7 +8,7 @@ export default function Categories() {
 
     return (
         <View style={styles.container}>
-            <TouchableOpacity onPress={() => navigation.navigate('Home')} style={styles.button}>
+            <TouchableOpacity onPress={() => navigation.navigate('Breakfast')} style={styles.button}>
                 <Text>Café da manhã</Text>
             </TouchableOpacity>
             <TouchableOpacity onPress={() => navigation.navigate('Lunch')} style={styles.button}>
