@@ -1,0 +1,133 @@
+[
+  {
+    "id": "1",
+    "titulo": "Pão de Queijo",
+    "descricao": "Tradicional pão de queijo mineiro, crocante por fora e macio por dentro.",
+    "passo_a_passo": [
+      "Pré-aqueça o forno a 180°C.",
+      "Misture 250g de polvilho doce com 100ml de leite e 100ml de óleo.",
+      "Adicione 1 ovo e 100g de queijo ralado.",
+      "Misture até formar uma massa homogênea.",
+      "Modele bolinhas e leve ao forno por 25 minutos."
+    ]
+  },
+  {
+    "id": "2",
+    "titulo": "Ovos Mexidos com Tomate",
+    "descricao": "Receita simples de ovos mexidos com um toque de frescor do tomate.",
+    "passo_a_passo": [
+      "Pique 1 tomate e reserve.",
+      "Em uma frigideira, aqueça um pouco de azeite.",
+      "Adicione 2 ovos batidos e mexa bem.",
+      "Junte o tomate picado e mexa até os ovos estarem cozidos.",
+      "Tempere com sal e pimenta a gosto."
+    ]
+  },
+  {
+    "id": "3",
+    "titulo": "Panqueca de Banana",
+    "descricao": "Panqueca saudável feita com banana e aveia.",
+    "passo_a_passo": [
+      "Amasse 1 banana madura.",
+      "Adicione 1 ovo e 2 colheres de aveia.",
+      "Misture bem até virar uma massa.",
+      "Despeje pequenas porções em uma frigideira untada.",
+      "Cozinhe dos dois lados até dourar."
+    ]
+  },
+  {
+    "id": "4",
+    "titulo": "Vitamina de Morango",
+    "descricao": "Bebida refrescante e nutritiva feita com leite e morangos.",
+    "passo_a_passo": [
+      "Lave 1 xícara de morangos.",
+      "Coloque no liquidificador com 1 copo de leite e 1 colher de mel.",
+      "Bata até ficar homogêneo.",
+      "Sirva gelado."
+    ]
+  },
+  {
+    "id": "5",
+    "titulo": "Tapioca com Coco e Leite Condensado",
+    "descricao": "Tapioca doce deliciosa e fácil de fazer.",
+    "passo_a_passo": [
+      "Aqueça uma frigideira antiaderente.",
+      "Espalhe 3 colheres de goma de tapioca.",
+      "Adicione coco ralado e leite condensado.",
+      "Dobre ao meio e sirva quente."
+    ]
+  },
+  {
+    "id": "6",
+    "titulo": "Mingau de Aveia",
+    "descricao": "Mingau cremoso, perfeito para o início do dia.",
+    "passo_a_passo": [
+      "Misture 1 xícara de leite, 3 colheres de aveia e 1 colher de açúcar.",
+      "Leve ao fogo baixo, mexendo sempre.",
+      "Cozinhe por 5 a 8 minutos até engrossar.",
+      "Sirva com frutas ou canela."
+    ]
+  },
+  {
+    "id": "7",
+    "titulo": "Sanduíche Natural",
+    "descricao": "Sanduíche leve com frango desfiado e vegetais.",
+    "passo_a_passo": [
+      "Misture frango desfiado com maionese e cenoura ralada.",
+      "Recheie duas fatias de pão integral.",
+      "Adicione alface e tomate.",
+      "Sirva fresco."
+    ]
+  },
+  {
+    "id": "8",
+    "titulo": "Iogurte com Granola e Frutas",
+    "descricao": "Copo saudável com camadas nutritivas.",
+    "passo_a_passo": [
+      "Em um copo, coloque iogurte natural.",
+      "Adicione granola e frutas picadas (banana, maçã, morango).",
+      "Repita as camadas e sirva gelado."
+    ]
+  },
+  {
+    "id": "9",
+    "titulo": "Crepioca",
+    "descricao": "Panqueca proteica de tapioca com ovo.",
+    "passo_a_passo": [
+      "Misture 1 ovo com 2 colheres de tapioca.",
+      "Tempere com sal.",
+      "Despeje em uma frigideira untada.",
+      "Cozinhe dos dois lados e recheie a gosto."
+    ]
+  },
+  {
+    "id": "10",
+    "titulo": "Pão com Ovo e Queijo",
+    "descricao": "Café da manhã clássico, rápido e saboroso.",
+    "passo_a_passo": [
+      "Frite 1 ovo.",
+      "Coloque-o dentro de um pão francês com queijo.",
+      "Leve ao forno por 5 minutos para derreter o queijo."
+    ]
+  },
+  {
+    "id": "11",
+    "titulo": "Cuscuz Nordestino",
+    "descricao": "Prato regional leve e versátil.",
+    "passo_a_passo": [
+      "Hidrate 1 xícara de flocão com água e sal.",
+      "Coloque na cuscuzeira e cozinhe por 15 minutos.",
+      "Sirva com manteiga ou ovo."
+    ]
+  },
+  {
+    "id": "12",
+    "titulo": "Smoothie de Manga",
+    "descricao": "Bebida refrescante e energética.",
+    "passo_a_passo": [
+      "Bata no liquidificador 1 manga picada com 1 copo de leite e gelo.",
+      "Adicione mel a gosto.",
+      "Sirva imediatamente."
+    ]
+  }
+]
