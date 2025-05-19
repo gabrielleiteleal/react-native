@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         alignItems: 'center',
         paddingVertical: 25,
-        backgroundColor: '#96aec5',
+        backgroundColor: '#fad6c2',
     },
     button: {
         padding: 10,

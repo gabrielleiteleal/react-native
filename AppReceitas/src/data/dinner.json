@@ -4,119 +4,179 @@
     "titulo": "Sopa de Legumes",
     "descricao": "Prato leve e nutritivo para a noite.",
     "passo_a_passo": [
-      "Pique batata, cenoura e abobrinha.",
-      "Cozinhe tudo com caldo de legumes.",
+      "Pique batata, cenoura, abobrinha e chuchu.",
+      "Refogue cebola e alho em uma panela com azeite.",
+      "Adicione os legumes picados e misture bem.",
+      "Coloque o caldo de legumes e cubra com água.",
+      "Cozinhe em fogo médio até os legumes ficarem macios.",
+      "Acerte o sal e adicione cheiro-verde.",
       "Sirva quente."
-    ]
+    ],
+    "imagem": "https://assets.unileversolutions.com/recipes-v2/36850.jpg"
   },
   {
     "id": "2",
     "titulo": "Crepioca",
     "descricao": "Crepioca recheada com queijo e peito de peru.",
     "passo_a_passo": [
-      "Misture 1 ovo com 2 colheres de tapioca.",
-      "Coloque na frigideira e adicione o recheio.",
-      "Dobre e doure dos dois lados."
-    ]
+      "Misture 1 ovo com 2 colheres de sopa de goma de tapioca.",
+      "Adicione uma pitada de sal e bata até ficar homogêneo.",
+      "Despeje a mistura em uma frigideira antiaderente quente.",
+      "Adicione o queijo e o peito de peru sobre a massa.",
+      "Dobre ao meio e pressione levemente.",
+      "Doure dos dois lados até o queijo derreter.",
+      "Sirva ainda quente."
+    ],
+    "imagem": "https://s2-receitas.glbimg.com/wr1gMpuzFfwbEVzBReYz35qtIA0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/F/Y/esPjvjQdqeB5JZ8e26eA/crepioca.jpg"
   },
   {
     "id": "3",
     "titulo": "Sanduíche Natural",
     "descricao": "Sanduíche leve com frango e salada.",
     "passo_a_passo": [
-      "Misture frango desfiado com maionese.",
-      "Monte no pão com alface e tomate.",
-      "Sirva frio ou levemente tostado."
-    ]
+      "Cozinhe e desfie o peito de frango.",
+      "Misture com maionese, cenoura ralada e cheiro-verde.",
+      "Tempere com sal, pimenta e limão.",
+      "Coloque o recheio entre fatias de pão integral.",
+      "Adicione folhas de alface e fatias de tomate.",
+      "Feche o sanduíche e corte ao meio.",
+      "Sirva frio ou levemente tostado na sanduicheira."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAvHp-42khnIZAn9OtxdiBR69tP8IPrNHqw&s"
   },
   {
     "id": "4",
     "titulo": "Tapioca com Queijo",
     "descricao": "Tapioca simples com recheio de queijo.",
     "passo_a_passo": [
-      "Aqueça a frigideira e espalhe a tapioca.",
-      "Adicione o queijo por cima.",
-      "Dobre e aguarde derreter."
-    ]
+      "Aqueça uma frigideira antiaderente.",
+      "Espalhe a goma de tapioca peneirada de forma uniforme.",
+      "Espere a goma unir e formar a base da tapioca.",
+      "Adicione o queijo ralado ou fatiado por cima.",
+      "Dobre ao meio e pressione com uma espátula.",
+      "Deixe até o queijo derreter e dourar levemente.",
+      "Sirva imediatamente."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5LHQFV-DU5SKonCG9ayBDER86b6JhGcTSA&s"
   },
   {
     "id": "5",
     "titulo": "Salada de Atum",
     "descricao": "Salada rápida com atum e legumes.",
     "passo_a_passo": [
-      "Misture alface, tomate, cenoura e atum.",
-      "Adicione azeite, sal e limão.",
+      "Lave bem as folhas de alface.",
+      "Corte tomate e cenoura em tiras finas.",
+      "Escorra o atum e desfie com um garfo.",
+      "Misture todos os ingredientes em uma tigela.",
+      "Tempere com azeite, sal, limão e pimenta-do-reino.",
+      "Misture bem até incorporar o tempero.",
       "Sirva gelada."
-    ]
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1DItF-vD8VtcKpCLkefN-Eoj4m5_Mv7D3w&s"
   },
   {
     "id": "6",
     "titulo": "Ovos Mexidos com Torradas",
     "descricao": "Clássico simples e nutritivo.",
     "passo_a_passo": [
-      "Bata ovos com sal e leve à frigideira.",
-      "Mexa até cozinhar.",
-      "Sirva com torradas."
-    ]
+      "Bata os ovos com sal e pimenta.",
+      "Derreta um pouco de manteiga na frigideira.",
+      "Despeje os ovos e mexa com uma espátula.",
+      "Cozinhe mexendo sempre até atingir a consistência desejada.",
+      "Torre as fatias de pão no forno ou na torradeira.",
+      "Sirva os ovos sobre ou ao lado das torradas.",
+      "Decore com ervas se desejar."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCJrHXqIZWX-bIjqy3c-BAFcPvz3e3gP1Lw&s"
   },
   {
     "id": "7",
     "titulo": "Wrap de Frango",
     "descricao": "Enrolado leve com recheio de frango e salada.",
     "passo_a_passo": [
-      "Coloque frango desfiado em uma tortilha.",
-      "Adicione salada e molho de sua preferência.",
-      "Enrole e corte ao meio."
-    ]
+      "Desfie o frango cozido e tempere com sal, azeite e limão.",
+      "Aqueça a tortilha rapidamente para amolecer.",
+      "Espalhe o frango no centro da tortilha.",
+      "Adicione folhas de alface, cenoura ralada e tomate.",
+      "Acrescente molho de iogurte ou mostarda com mel.",
+      "Enrole como um rocambole, dobrando as pontas.",
+      "Corte ao meio e sirva."
+    ],
+    "imagem": "https://www.perdigao.com.br/assets/_images/8402c5c5f29ca29d758ca7657d3c4ac29a587edf.webp"
   },
   {
     "id": "8",
     "titulo": "Risoto Simples",
     "descricao": "Risoto leve com legumes e queijo.",
     "passo_a_passo": [
-      "Refogue arroz arbóreo com cebola e alho.",
-      "Adicione legumes e vá colocando caldo aos poucos.",
-      "Finalize com queijo ralado."
-    ]
+      "Refogue cebola e alho na manteiga.",
+      "Adicione o arroz arbóreo e misture bem.",
+      "Acrescente legumes picados como cenoura e abobrinha.",
+      "Coloque caldo de legumes aos poucos, mexendo sempre.",
+      "Continue o processo até o arroz ficar al dente.",
+      "Finalize com queijo ralado e um fio de azeite.",
+      "Sirva imediatamente com ervas frescas."
+    ],
+    "imagem": "https://static.itdg.com.br/images/360-240/b90e6d0f159d61fa86c373fbbbce6949/317249-original.jpg"
   },
   {
     "id": "9",
     "titulo": "Pizza de Frigideira",
     "descricao": "Pizza rápida feita na frigideira.",
     "passo_a_passo": [
-      "Monte a massa com farinha, água e sal.",
-      "Doure na frigideira e adicione molho e recheio.",
-      "Tampe até o queijo derreter."
-    ]
+      "Misture farinha, sal e água até formar a massa.",
+      "Modele a massa em formato de disco.",
+      "Doure a massa na frigideira dos dois lados.",
+      "Espalhe molho de tomate por cima.",
+      "Adicione queijo e recheios a gosto.",
+      "Tampe a frigideira e cozinhe até o queijo derreter.",
+      "Sirva em seguida."
+    ],
+    "imagem": "https://i.ytimg.com/vi/EKOUSAtme8Q/maxresdefault.jpg"
   },
   {
     "id": "10",
     "titulo": "Panqueca de Espinafre",
     "descricao": "Panqueca leve com recheio de espinafre refogado.",
     "passo_a_passo": [
-      "Faça panquecas e recheie com espinafre refogado.",
-      "Cubra com molho branco.",
-      "Leve ao forno por 15 minutos."
-    ]
+      "Faça a massa batendo leite, ovos e farinha.",
+      "Asse as panquecas em uma frigideira antiaderente.",
+      "Refogue o espinafre com alho e cebola.",
+      "Recheie cada panqueca com o espinafre.",
+      "Enrole e disponha em um refratário.",
+      "Cubra com molho branco e queijo.",
+      "Leve ao forno por 15 minutos para gratinar."
+    ],
+    "imagem": "https://s2-receitas.glbimg.com/Az2aGkaHxon-cKdQYVxxewygcT0=/0x0:2560x1707/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/h/V/E77Y6HRBWWRXQ9CTmbGw/panqueca-de-espinafre.jpg"
   },
   {
     "id": "11",
     "titulo": "Quibe Assado",
     "descricao": "Versão assada do tradicional quibe.",
     "passo_a_passo": [
-      "Misture carne moída, trigo e temperos.",
-      "Espalhe numa forma e asse por 30 minutos.",
-      "Sirva com salada."
-    ]
+      "Hidrate o trigo para quibe em água morna por 30 minutos.",
+      "Misture com carne moída, cebola, hortelã e sal.",
+      "Unte uma forma com azeite e espalhe metade da massa.",
+      "Adicione um recheio opcional como requeijão ou queijo.",
+      "Cubra com o restante da massa e alise bem.",
+      "Regue com azeite e corte em losangos.",
+      "Asse por 30 minutos ou até dourar."
+    ],
+    "imagem": "https://receitascomairfryer.com.br/wp-content/uploads/2024/10/g2journey_httpss.mj_.run8PLVdqSLeEI_Five_oblong-shaped_kibbeh__8a96dcef-90f2-4515-9657-9fa675b57150_2.png"
   },
   {
     "id": "12",
     "titulo": "Macarrão com Azeite e Alho",
     "descricao": "Prato leve e rápido.",
     "passo_a_passo": [
-      "Cozinhe o macarrão.",
-      "Refogue alho no azeite.",
-      "Misture tudo e sirva com queijo ralado."
-    ]
+      "Cozinhe o macarrão em água com sal até ficar al dente.",
+      "Enquanto isso, refogue alho laminado no azeite até dourar.",
+      "Escorra o macarrão e reserve um pouco da água do cozimento.",
+      "Misture o macarrão com o alho refogado.",
+      "Adicione um pouco da água do cozimento para dar cremosidade.",
+      "Polvilhe queijo parmesão ralado e salsinha.",
+      "Sirva imediatamente."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7GlNObp-JcHfJSoAtrdaFsOKczRsRO317Q&s"
   }
 ]

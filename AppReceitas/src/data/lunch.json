@@ -4,119 +4,155 @@
     "titulo": "Arroz com Frango",
     "descricao": "Clássico arroz branco com frango grelhado.",
     "passo_a_passo": [
-      "Cozinhe o arroz normalmente.",
-      "Tempere e grelhe o frango.",
-      "Sirva juntos com salada."
-    ]
+      "Lave o arroz e coloque para cozinhar com água e sal.",
+      "Tempere o frango com alho, sal, pimenta e limão.",
+      "Grelhe o frango até dourar bem.",
+      "Prepare uma salada simples de folhas verdes.",
+      "Sirva o arroz, o frango e a salada juntos."
+    ],
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2024/06/arroz-com-frango-em-uma-panela-so-portal-minha-receita.webp"
   },
   {
     "id": "2",
     "titulo": "Macarrão à Bolonhesa",
     "descricao": "Macarrão com molho de carne moída.",
     "passo_a_passo": [
-      "Cozinhe o macarrão.",
-      "Refogue carne moída com molho de tomate.",
-      "Misture e sirva com queijo ralado."
-    ]
+      "Cozinhe o macarrão até ficar al dente.",
+      "Refogue a carne moída com alho e cebola.",
+      "Adicione molho de tomate e deixe ferver por 10 minutos.",
+      "Tempere com sal, pimenta e orégano.",
+      "Misture com o macarrão e sirva com queijo ralado."
+    ],
+    "imagem": "https://static.itdg.com.br/images/360-240/a421b96aa004d4dd5e050c04970de54d/294322-original.jpg"
   },
   {
     "id": "3",
     "titulo": "Strogonoff de Frango",
     "descricao": "Receita cremosa com frango e creme de leite.",
     "passo_a_passo": [
-      "Corte o frango e refogue com temperos.",
-      "Adicione creme de leite e ketchup.",
-      "Sirva com arroz e batata palha."
-    ]
+      "Corte o frango em cubos pequenos.",
+      "Refogue com alho, cebola e sal até dourar.",
+      "Adicione ketchup e mostarda a gosto.",
+      "Misture o creme de leite e cozinhe por mais 5 minutos.",
+      "Sirva com arroz branco e batata palha."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruUp-ukh9BeWIUMkgxbv0d44Q5L7UCgqLaQ&s"
   },
   {
     "id": "4",
     "titulo": "Feijoada Simples",
     "descricao": "Versão prática do prato tradicional.",
     "passo_a_passo": [
-      "Cozinhe feijão preto com carnes.",
-      "Tempere com alho, cebola e louro.",
-      "Sirva com arroz e couve."
-    ]
+      "Deixe o feijão de molho por 8 horas.",
+      "Cozinhe o feijão com as carnes até ficar macio.",
+      "Refogue alho, cebola e louro em uma panela.",
+      "Adicione ao feijão e cozinhe mais um pouco.",
+      "Sirva com arroz, couve refogada e farofa."
+    ],
+    "imagem": "https://i.panelinha.com.br/i1/bk-9097-39-panelinha-12-02-200635.webp"
   },
   {
     "id": "5",
     "titulo": "Lasanha de Carne",
     "descricao": "Camadas de massa, carne e queijo.",
     "passo_a_passo": [
-      "Monte camadas com massa, carne e molho.",
-      "Cubra com queijo.",
-      "Leve ao forno por 30 minutos."
-    ]
+      "Cozinhe a massa da lasanha.",
+      "Refogue carne moída com molho de tomate.",
+      "Monte camadas alternadas de massa, carne e queijo.",
+      "Finalize com queijo por cima.",
+      "Asse por 30 minutos em forno médio."
+    ],
+    "imagem": "https://i0.wp.com/canaldareceita.com.br/wp-content/uploads/2025/01/LASANHA-DE-CARNE-MOIDA-SIMPLES.jpg?fit=1000%2C600&ssl=1"
   },
   {
     "id": "6",
     "titulo": "Omelete Recheada",
     "descricao": "Omelete com legumes e queijo.",
     "passo_a_passo": [
-      "Bata 2 ovos e despeje na frigideira.",
-      "Adicione legumes e queijo.",
-      "Dobre ao meio e sirva."
-    ]
+      "Bata os ovos com uma pitada de sal.",
+      "Aqueça a frigideira e despeje os ovos batidos.",
+      "Adicione legumes picados e queijo ralado.",
+      "Cozinhe em fogo baixo até firmar.",
+      "Dobre ao meio e sirva quente."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWst0a0v9dZL2MHDDQBSQDNvfNEqHWZkkXg&s"
   },
   {
     "id": "7",
     "titulo": "Filé de Peixe com Purê",
     "descricao": "Peixe grelhado com purê de batata.",
     "passo_a_passo": [
-      "Grelhe o peixe com limão e alho.",
-      "Faça purê com batata cozida e leite.",
-      "Sirva juntos."
-    ]
+      "Tempere o peixe com alho, limão e sal.",
+      "Grelhe o peixe em uma frigideira antiaderente.",
+      "Cozinhe as batatas até ficarem macias.",
+      "Amasse e adicione leite, manteiga e sal.",
+      "Sirva o purê com o peixe por cima."
+    ],
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/02/file-de-tilapia-grelhada-portal-minha-receita.jpg"
   },
   {
     "id": "8",
     "titulo": "Escondidinho de Carne",
     "descricao": "Carne moída com purê de batata gratinado.",
     "passo_a_passo": [
-      "Refogue a carne moída.",
-      "Cubra com purê e queijo.",
-      "Leve ao forno até dourar."
-    ]
+      "Refogue carne moída com alho, cebola e temperos.",
+      "Cozinhe as batatas e prepare o purê.",
+      "Coloque a carne em um refratário.",
+      "Cubra com o purê e polvilhe queijo por cima.",
+      "Leve ao forno até gratinar."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvxgEdJQSScEzTPz9xxZRh1eO1P7us4VGFA&s"
   },
   {
     "id": "9",
     "titulo": "Arroz à Grega",
     "descricao": "Arroz com legumes coloridos.",
     "passo_a_passo": [
-      "Refogue cenoura, ervilha e pimentão.",
-      "Misture com arroz cozido.",
-      "Sirva quente."
-    ]
+      "Cozinhe o arroz normalmente.",
+      "Refogue cenoura, ervilha e pimentão em azeite.",
+      "Adicione o arroz cozido e misture bem.",
+      "Tempere com sal e salsinha.",
+      "Sirva como acompanhamento."
+    ],
+    "imagem": "https://receitadaboa.com.br/wp-content/uploads/2024/10/arroz-a-grega.jpg"
   },
   {
     "id": "10",
     "titulo": "Panqueca de Carne",
     "descricao": "Panqueca recheada com carne moída e molho.",
     "passo_a_passo": [
-      "Faça massa de panqueca e recheie com carne.",
+      "Prepare a massa da panqueca com farinha, leite e ovos.",
+      "Refogue a carne moída com temperos.",
+      "Recheie cada panqueca com a carne e enrole.",
       "Cubra com molho de tomate.",
       "Leve ao forno por 20 minutos."
-    ]
+    ],
+    "imagem": "https://vitat.com.br/bkt/busca-de-alimentos/624-panqueca-de-carne-moi%CC%81da.jpg?ims=fit-in/404x260/filters:quality(80):format(webpp)"
   },
   {
     "id": "11",
     "titulo": "Salada com Frango",
     "descricao": "Prato leve com frango grelhado e legumes.",
     "passo_a_passo": [
-      "Grelhe tiras de frango.",
-      "Misture com alface, tomate e cenoura.",
-      "Tempere com azeite e limão."
-    ]
+      "Tempere o frango e grelhe até dourar.",
+      "Lave e corte os legumes da salada.",
+      "Monte o prato com frango em tiras.",
+      "Adicione azeite, limão e sal.",
+      "Sirva gelado ou em temperatura ambiente."
+    ],
+    "imagem": "https://receitatodahora.com.br/wp-content/uploads/2023/03/salada-tropical-16-03.jpg"
   },
   {
     "id": "12",
     "titulo": "Moqueca de Peixe",
     "descricao": "Peixe cozido com leite de coco e pimentão.",
     "passo_a_passo": [
-      "Refogue cebola e pimentão.",
-      "Adicione o peixe e leite de coco.",
-      "Cozinhe por 15 minutos."
-    ]
+      "Tempere o peixe com alho, sal e limão.",
+      "Refogue cebola, alho, pimentão e tomate.",
+      "Adicione o peixe e o leite de coco.",
+      "Cozinhe por 15 minutos com tampa.",
+      "Finalize com coentro e sirva com arroz."
+    ],
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmVj6aJ6UqDYcZh5wrlOL9oQhAKkBKgguKw&s"
   }
 ]
