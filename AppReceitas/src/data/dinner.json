@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "titulo": "Sopa de Legumes",
+    "descricao": "Prato leve e nutritivo para a noite.",
+    "passo_a_passo": [
+      "Pique batata, cenoura e abobrinha.",
+      "Cozinhe tudo com caldo de legumes.",
+      "Sirva quente."
+    ]
+  },
+  {
+    "id": "2",
+    "titulo": "Crepioca",
+    "descricao": "Crepioca recheada com queijo e peito de peru.",
+    "passo_a_passo": [
+      "Misture 1 ovo com 2 colheres de tapioca.",
+      "Coloque na frigideira e adicione o recheio.",
+      "Dobre e doure dos dois lados."
+    ]
+  },
+  {
+    "id": "3",
+    "titulo": "Sanduíche Natural",
+    "descricao": "Sanduíche leve com frango e salada.",
+    "passo_a_passo": [
+      "Misture frango desfiado com maionese.",
+      "Monte no pão com alface e tomate.",
+      "Sirva frio ou levemente tostado."
+    ]
+  },
+  {
+    "id": "4",
+    "titulo": "Tapioca com Queijo",
+    "descricao": "Tapioca simples com recheio de queijo.",
+    "passo_a_passo": [
+      "Aqueça a frigideira e espalhe a tapioca.",
+      "Adicione o queijo por cima.",
+      "Dobre e aguarde derreter."
+    ]
+  },
+  {
+    "id": "5",
+    "titulo": "Salada de Atum",
+    "descricao": "Salada rápida com atum e legumes.",
+    "passo_a_passo": [
+      "Misture alface, tomate, cenoura e atum.",
+      "Adicione azeite, sal e limão.",
+      "Sirva gelada."
+    ]
+  },
+  {
+    "id": "6",
+    "titulo": "Ovos Mexidos com Torradas",
+    "descricao": "Clássico simples e nutritivo.",
+    "passo_a_passo": [
+      "Bata ovos com sal e leve à frigideira.",
+      "Mexa até cozinhar.",
+      "Sirva com torradas."
+    ]
+  },
+  {
+    "id": "7",
+    "titulo": "Wrap de Frango",
+    "descricao": "Enrolado leve com recheio de frango e salada.",
+    "passo_a_passo": [
+      "Coloque frango desfiado em uma tortilha.",
+      "Adicione salada e molho de sua preferência.",
+      "Enrole e corte ao meio."
+    ]
+  },
+  {
+    "id": "8",
+    "titulo": "Risoto Simples",
+    "descricao": "Risoto leve com legumes e queijo.",
+    "passo_a_passo": [
+      "Refogue arroz arbóreo com cebola e alho.",
+      "Adicione legumes e vá colocando caldo aos poucos.",
+      "Finalize com queijo ralado."
+    ]
+  },
+  {
+    "id": "9",
+    "titulo": "Pizza de Frigideira",
+    "descricao": "Pizza rápida feita na frigideira.",
+    "passo_a_passo": [
+      "Monte a massa com farinha, água e sal.",
+      "Doure na frigideira e adicione molho e recheio.",
+      "Tampe até o queijo derreter."
+    ]
+  },
+  {
+    "id": "10",
+    "titulo": "Panqueca de Espinafre",
+    "descricao": "Panqueca leve com recheio de espinafre refogado.",
+    "passo_a_passo": [
+      "Faça panquecas e recheie com espinafre refogado.",
+      "Cubra com molho branco.",
+      "Leve ao forno por 15 minutos."
+    ]
+  },
+  {
+    "id": "11",
+    "titulo": "Quibe Assado",
+    "descricao": "Versão assada do tradicional quibe.",
+    "passo_a_passo": [
+      "Misture carne moída, trigo e temperos.",
+      "Espalhe numa forma e asse por 30 minutos.",
+      "Sirva com salada."
+    ]
+  },
+  {
+    "id": "12",
+    "titulo": "Macarrão com Azeite e Alho",
+    "descricao": "Prato leve e rápido.",
+    "passo_a_passo": [
+      "Cozinhe o macarrão.",
+      "Refogue alho no azeite.",
+      "Misture tudo e sirva com queijo ralado."
+    ]
+  }
+]

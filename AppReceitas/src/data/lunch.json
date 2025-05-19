@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "titulo": "Arroz com Frango",
+    "descricao": "Clássico arroz branco com frango grelhado.",
+    "passo_a_passo": [
+      "Cozinhe o arroz normalmente.",
+      "Tempere e grelhe o frango.",
+      "Sirva juntos com salada."
+    ]
+  },
+  {
+    "id": "2",
+    "titulo": "Macarrão à Bolonhesa",
+    "descricao": "Macarrão com molho de carne moída.",
+    "passo_a_passo": [
+      "Cozinhe o macarrão.",
+      "Refogue carne moída com molho de tomate.",
+      "Misture e sirva com queijo ralado."
+    ]
+  },
+  {
+    "id": "3",
+    "titulo": "Strogonoff de Frango",
+    "descricao": "Receita cremosa com frango e creme de leite.",
+    "passo_a_passo": [
+      "Corte o frango e refogue com temperos.",
+      "Adicione creme de leite e ketchup.",
+      "Sirva com arroz e batata palha."
+    ]
+  },
+  {
+    "id": "4",
+    "titulo": "Feijoada Simples",
+    "descricao": "Versão prática do prato tradicional.",
+    "passo_a_passo": [
+      "Cozinhe feijão preto com carnes.",
+      "Tempere com alho, cebola e louro.",
+      "Sirva com arroz e couve."
+    ]
+  },
+  {
+    "id": "5",
+    "titulo": "Lasanha de Carne",
+    "descricao": "Camadas de massa, carne e queijo.",
+    "passo_a_passo": [
+      "Monte camadas com massa, carne e molho.",
+      "Cubra com queijo.",
+      "Leve ao forno por 30 minutos."
+    ]
+  },
+  {
+    "id": "6",
+    "titulo": "Omelete Recheada",
+    "descricao": "Omelete com legumes e queijo.",
+    "passo_a_passo": [
+      "Bata 2 ovos e despeje na frigideira.",
+      "Adicione legumes e queijo.",
+      "Dobre ao meio e sirva."
+    ]
+  },
+  {
+    "id": "7",
+    "titulo": "Filé de Peixe com Purê",
+    "descricao": "Peixe grelhado com purê de batata.",
+    "passo_a_passo": [
+      "Grelhe o peixe com limão e alho.",
+      "Faça purê com batata cozida e leite.",
+      "Sirva juntos."
+    ]
+  },
+  {
+    "id": "8",
+    "titulo": "Escondidinho de Carne",
+    "descricao": "Carne moída com purê de batata gratinado.",
+    "passo_a_passo": [
+      "Refogue a carne moída.",
+      "Cubra com purê e queijo.",
+      "Leve ao forno até dourar."
+    ]
+  },
+  {
+    "id": "9",
+    "titulo": "Arroz à Grega",
+    "descricao": "Arroz com legumes coloridos.",
+    "passo_a_passo": [
+      "Refogue cenoura, ervilha e pimentão.",
+      "Misture com arroz cozido.",
+      "Sirva quente."
+    ]
+  },
+  {
+    "id": "10",
+    "titulo": "Panqueca de Carne",
+    "descricao": "Panqueca recheada com carne moída e molho.",
+    "passo_a_passo": [
+      "Faça massa de panqueca e recheie com carne.",
+      "Cubra com molho de tomate.",
+      "Leve ao forno por 20 minutos."
+    ]
+  },
+  {
+    "id": "11",
+    "titulo": "Salada com Frango",
+    "descricao": "Prato leve com frango grelhado e legumes.",
+    "passo_a_passo": [
+      "Grelhe tiras de frango.",
+      "Misture com alface, tomate e cenoura.",
+      "Tempere com azeite e limão."
+    ]
+  },
+  {
+    "id": "12",
+    "titulo": "Moqueca de Peixe",
+    "descricao": "Peixe cozido com leite de coco e pimentão.",
+    "passo_a_passo": [
+      "Refogue cebola e pimentão.",
+      "Adicione o peixe e leite de coco.",
+      "Cozinhe por 15 minutos."
+    ]
+  }
+]

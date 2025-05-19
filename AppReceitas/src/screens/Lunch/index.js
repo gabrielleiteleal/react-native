@@ -1,12 +1,12 @@
 import { View, StyleSheet } from "react-native";
-import ListLunch from "../../components/ListLunch";
 import styles  from "../Breakfast/style";
+import FlatListLunch from "../../components/FlatListLunch";
 
 export default function Lunch() {
 
   return (
     <View style={styles.container}>
-      <ListLunch />
+      <FlatListLunch />
     </View>
   );
 }

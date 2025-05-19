@@ -8,12 +8,13 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         alignItems: 'center',
         paddingVertical: 25,
-        backgroundColor: 'pink',
+        backgroundColor: '#96aec5',
     },
     button: {
         padding: 10,
         borderRadius: 10,
-        backgroundColor: 'yellow',
+        backgroundColor: '#4d6fac',
+        
     }
 }
 )

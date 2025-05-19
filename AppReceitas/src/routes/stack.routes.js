@@ -7,10 +7,10 @@ const Stack = createNativeStackNavigator()
 
 export default function StackRoutes() {
     return (
-        <Stack.Navigator initialRouteName="Breakfast">
-            <Stack.Screen name="Breakfast" component={Breakfast} />
-            <Stack.Screen name="Lunch" component={Lunch} />
-            <Stack.Screen name="Dinner" component={Dinner} />
+        <Stack.Navigator initialRouteName="Café da manhã">
+            <Stack.Screen name="Café da manhã" component={Breakfast} />
+            <Stack.Screen name="Almoço" component={Lunch} />
+            <Stack.Screen name="Jantar" component={Dinner} />
         </Stack.Navigator>
     )
 }

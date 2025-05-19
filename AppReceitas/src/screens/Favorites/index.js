@@ -1,10 +1,10 @@
 import { View, Text, StyleSheet } from "react-native";
-import ListFavorites from "../../components/ListFavorites";
+import FlatListFavorites from "../../components/FlatListFavorites"
 
 export default function Favorites() {
   return (
     <View style={styles.container}>
-      <ListFavorites />
+      <FlatListFavorites/>
     </View>
   );
 }

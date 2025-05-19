@@ -1,8 +1,8 @@
 import { View, FlatList, Text } from "react-native"
-import dados from "../../data/breakfast.json"
-import styles from "./style"
+import dados from "../../data/dinner.json"
+import styles from "../FlatListBreakfast/style"
 
-const FlatListBreakfast = () => {
+const FlatListDinner = () => {
     return (
         <View style={{ flex: 1, backgroundColor: '#c6c6c6', }}>
             <FlatList
@@ -14,13 +14,11 @@ const FlatListBreakfast = () => {
                         <View style={styles.containerText}>
                             <Text style={styles.title}>{item.titulo}</Text>
                             <Text style={styles.description}>{item.descricao}</Text>
-
                         </View>
-
                     </View>
                 )} />
         </View>
     )
 }
 
-export default FlatListBreakfast;
+export default FlatListDinner;

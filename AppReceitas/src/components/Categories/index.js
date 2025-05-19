@@ -8,14 +8,14 @@ export default function Categories() {
 
     return (
         <View style={styles.container}>
-            <TouchableOpacity onPress={() => navigation.navigate('Breakfast')} style={styles.button}>
-                <Text>Café da manhã</Text>
+            <TouchableOpacity onPress={() => navigation.navigate('Café da manhã')} style={styles.button}>
+                <Text style={{color: 'white'}}>Café da manhã</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => navigation.navigate('Lunch')} style={styles.button}>
-                <Text>Almoço</Text>
+            <TouchableOpacity onPress={() => navigation.navigate('Almoço')} style={styles.button}>
+                <Text style={{color: 'white'}}>Almoço</Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={() => navigation.navigate('Dinner')} style={styles.button}>
-                <Text>Jantar</Text>
+            <TouchableOpacity onPress={() => navigation.navigate('Jantar')} style={styles.button}>
+                <Text style={{color: 'white'}}>Jantar</Text>
             </TouchableOpacity>
         </View>
     )

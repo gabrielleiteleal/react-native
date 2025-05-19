@@ -1,6 +1,5 @@
 import { View, Text } from "react-native";
 import Categories from "../../components/Categories";
-import ListBreakfast from "../../components/ListBreakfast";
 import FlatListBreakfast from "../../components/FlatListBreakfast";
 import { useNavigation } from "@react-navigation/native";
 import styles from "./style"

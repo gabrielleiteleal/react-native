@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "titulo": "Pão de Queijo",
+    "descricao": "Tradicional pão de queijo mineiro, crocante por fora e macio por dentro.",
+    "passo_a_passo": [
+      "Pré-aqueça o forno a 180°C.",
+      "Misture 250g de polvilho doce com 100ml de leite e 100ml de óleo.",
+      "Adicione 1 ovo e 100g de queijo ralado.",
+      "Misture até formar uma massa homogênea.",
+      "Modele bolinhas e leve ao forno por 25 minutos."
+    ]
+  },
+  {
+    "id": "2",
+    "titulo": "Ovos Mexidos com Tomate",
+    "descricao": "Receita simples de ovos mexidos com um toque de frescor do tomate.",
+    "passo_a_passo": [
+      "Pique 1 tomate e reserve.",
+      "Em uma frigideira, aqueça um pouco de azeite.",
+      "Adicione 2 ovos batidos e mexa bem.",
+      "Junte o tomate picado e mexa até os ovos estarem cozidos.",
+      "Tempere com sal e pimenta a gosto."
+    ]
+  }
+]
