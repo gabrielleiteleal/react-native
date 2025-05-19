@@ -1,5 +1,6 @@
 import { View, FlatList, Text } from "react-native"
 import dados from "../../data/breakfast.json"
+import styles from "./style"
 
 const FlatListBreakfast = () => {
     return (
@@ -8,9 +9,14 @@ const FlatListBreakfast = () => {
                 data={dados}
                 keyExtractor={(item) => item.id}
                 renderItem={({ item }) => (
-                    <View>
-                        <Text>{item.titulo}</Text>
-                        <Text>{item.descricao}</Text>
+                    <View style={styles.container}>
+                        <View style={styles.containerImg}></View>
+                        <View style={styles.containerText}>
+                            <Text style={styles.title}>{item.titulo}</Text>
+                            <Text style={styles.description}>{item.descricao}</Text>
+
+                        </View>
+
                     </View>
                 )} />
         </View>

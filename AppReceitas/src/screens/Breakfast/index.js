@@ -12,10 +12,7 @@ export default function Breakfast() {
   return (
     <View style={styles.container}>
       <Categories />
-      <Text>asd</Text>
-      {/* <ListBreakfast /> */}
       <FlatListBreakfast />
-      <Text>Testandi</Text>
     </View>
   );
 }
