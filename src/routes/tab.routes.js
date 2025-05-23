@@ -3,6 +3,7 @@ import { Feather } from "@expo/vector-icons";
 
 import Favorites from "../screens/Favorites";
 import StackRoutes from "./stack.routes";
+import StackRoutesFav from "./stackFav.routes";
 
 const Tab = createBottomTabNavigator()
 
@@ -20,11 +21,12 @@ export default function TabRoutes() {
                 }} />
             <Tab.Screen
                 name="Favorites"
-                component={Favorites}
+                component={StackRoutesFav}
                 options={{
                     tabBarIcon: () => <Feather name="heart" size={30} />,
                     tabBarActiveBackgroundColor: '#9eb4e0',
-                    tabBarInactiveBackgroundColor: 'white'
+                    tabBarInactiveBackgroundColor: 'white',
+                    headerShown: false
                 }} />
         </Tab.Navigator>
     )
