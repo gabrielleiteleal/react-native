@@ -2,17 +2,21 @@ import { View, Text, TouchableOpacity, ScrollView, Image } from "react-native";
 import { useRoute } from "@react-navigation/native";
 import styles from "./style";
 import { Feather } from "@expo/vector-icons";
+import { useFavorites } from "../../contexts/index"
 
 export default function RecipeBreakfast() {
 
   const route = useRoute()
   const { item } = route.params
+  // const [favorites, addFavorite, removeFavorite] = useFavorites()
+
+  // const isFavorite = (id) => favorites.some(item => item.id === id)
 
   return (
     <View style={{ flex: 1 }}>
       <View style={styles.containerDescription}>
         <View style={styles.containerImg}>
-          <Image source={{ uri: item.imagem}} style={{width: '100%', height: '100%', resizeMode: 'cover', borderRadius: 10}} />
+          <Image source={{ uri: item.imagem }} style={{ width: '100%', height: '100%', resizeMode: 'cover', borderRadius: 10 }} />
         </View>
         <View style={styles.containerText}>
           <Text style={styles.title}>{item.titulo}</Text>
@@ -24,7 +28,7 @@ export default function RecipeBreakfast() {
         {item.passo_a_passo.map((passo, index) => (
           <Text key={index} style={styles.textRecipe}>• {passo}</Text>
         ))}
-      </ScrollView> 
+      </ScrollView>
     </View>
   );
 }

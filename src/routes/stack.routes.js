@@ -2,7 +2,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack"
 import Breakfast from "../screens/Breakfast"
 import Lunch from "../screens/Lunch"
 import Dinner from "../screens/Dinner"
-import RecipeBreakfast from "../screens/RecipeBreakfast"
+import RecipeBreakfast from "../screens/Recipe"
 
 const Stack = createNativeStackNavigator()
 

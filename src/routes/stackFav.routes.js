@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack"
-import RecipeBreakfast from "../screens/RecipeBreakfast"
+import RecipeBreakfast from "../screens/Recipe"
 import Favorites from "../screens/Favorites"
 
 const Stack = createNativeStackNavigator()

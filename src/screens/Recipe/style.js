@@ -3,14 +3,14 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
     containerRecipe: {
         flex: 1,
-        backgroundColor: '#fad6c2',
+        backgroundColor: '#e1bd74ff',
         padding: 15,
     },
     containerDescription: {
         width: '100%',
         height: 210,
         flexDirection: 'row',
-        backgroundColor: '#4073c1',
+        backgroundColor: '#538cb0ff',
         gap: 8,
         justifyContent: 'center',
         paddingVertical: 45,
