@@ -2,8 +2,7 @@
 
 ## Índice
 
-- [Descrição](#descri%C3%A7%C3%A3o)
-- [Capturas de tela](#capturas-de-tela)
+- [Descrição](#descri%C3%A7%C3%A3o)<!-- - [Capturas de tela](#capturas-de-tela) -->
 - [Funcionalidades](#funcionalidades-principais)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Licença](#licen%C3%A7a)
@@ -12,6 +11,7 @@
 
 Um aplicativo mobile simples e funcional que exibe uma coleção de receitas leves, ideais para refeições rápidas, saudáveis e nutritivas. Desenvolvido em **React Native**, este app apresenta imagens, descrições e passo a passo de preparo de cada receita.
 
+<!--
 ## Capturas de tela
 
 <p align="center">
@@ -20,6 +20,8 @@ Um aplicativo mobile simples e funcional que exibe uma coleção de receitas lev
   <img src="https://github.com/gabrielleiteleal/react-native-app-receitas/blob/main/src/images/captura-3.jpg" alt="Captura de Tela 3" width="auto" height="500" style="margin: 10px;" />
   <img src="https://github.com/gabrielleiteleal/react-native-app-receitas/blob/main/src/images/captura-4.jpg" alt="Captura de Tela 4" width="auto" height="500" style="margin: 10px;" />
 </p>
+
+ -->
 
 ## Funcionalidades Principais
 
